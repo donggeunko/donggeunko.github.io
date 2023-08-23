@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a graduate student in MAIN Lab @ Sungkyunkwan University, advised by Prof. Jaekwang Kim and was a SKT AI Fellowship member with SKT Supernova team in 2022. I received my B.S degree in Molecular Biotechnology @ Ghent University Global Campus and wrote my bachelor thesis with the supervision of Utku Ozbulak and Professor Wesley De Neve. My major research interest lies but is not limited to computer vision, especially generative model, self-supervised learning and LLMs. 
+I am currently a graduate student in MAIN Lab @ Sungkyunkwan University, advised by [Prof. Jaekwang Kim](https://dramatic-samba-372.notion.site/Jaekwang-KIM-b5955ec7d50f488b8ff7bd29f9148641) and was a SKT AI Fellowship member with SKT Supernova team in 2022. I received my B.S degree in Molecular Biotechnology @ Ghent University Global Campus and wrote my bachelor thesis with the supervision of Utku Ozbulak and Professor Wesley De Neve. My major research interest lies but is not limited to computer vision, especially generative model, self-supervised learning and LLMs. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
